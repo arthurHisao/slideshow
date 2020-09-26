@@ -1,0 +1,1 @@
+let slide = new slideController();
